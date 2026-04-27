@@ -41,10 +41,10 @@ I am a third-year Information Technology student at the University of Transport 
 
 ### 📊 GitHub Stats
 
-![Hiếu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Hiếu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sawm-c&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sawm-c&layout=compact&theme=radical)
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to activate the stats)*
+
 
 ---
 
