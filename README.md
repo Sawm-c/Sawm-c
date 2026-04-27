@@ -13,7 +13,6 @@ I’m passionate about **Cloud Computing**, **DevOps practices**, and building r
 **DevOps & Cloud:**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -32,15 +31,8 @@ I’m passionate about **Cloud Computing**, **DevOps practices**, and building r
 
 ### 🚀 Featured Projects
 
-*(Currently updating — here are some of the projects I've worked on during my studies)*
-
 - **Smart Weather Forecast Automation**  
   Designed and deployed a 3-tier application using Docker and set up a complete CI/CD pipeline on AWS with GitHub Actions.
-
-- **DocTruyen - Book Reading Android App**  
-  Developed a native Android application with Kotlin, focusing on clean UI/UX design and full project lifecycle management.
-
-*(Feel free to replace these with projects you're more proud of)*
 
 ---
 
