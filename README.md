@@ -59,7 +59,7 @@ I strongly believe that experiences outside of coding help me become a better en
 
 ### 📫 Let's Connect!
 
-- **Location:** Long Biên, Hanoi, Vietnam
+- **Location:** Hanoi, Vietnam
 - **Email:** [hieuhc53@example.com](mailto:hieuhc53@example.com)
 
 Thanks for stopping by! Whether you’re into Cloud, DevOps, philosophy, or just want to chat about life and technology — feel free to reach out.
