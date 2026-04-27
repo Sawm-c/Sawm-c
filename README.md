@@ -56,7 +56,7 @@ I’m passionate about **Cloud Computing**, **DevOps practices**, and building r
 When I’m not writing Terraform or debugging pipelines, you’ll likely find me:
 
 - 📖 Reading philosophy books, especially on **existentialism**, and pondering life’s big questions.
-- 🎧 Listening to a wide range of music — Vietnamese Rap (Táo, Binz, etc.), Lana Del Rey, Charlie Puth, and chill/indie tracks.
+- 🎧 Listening to a wide range of music — Vietnamese Rap (Táo, Low G,...), Imagine Dragons, Charlie Puth, and chill/indie tracks.
 - 🌲 Exploring Vietnam’s nature and culture — from trekking in **Cúc Phương National Park** to visiting the Fine Arts Museum or wandering around Hanoi’s streets.
 - 🌊 Playing games like *Wuthering Waves* and translating lore & dialogues to improve my English while having fun.
 - ☕ Enjoying quiet coffee time alone or having deep conversations with friends about technology, philosophy, and the future.
