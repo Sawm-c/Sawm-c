@@ -27,14 +27,6 @@ I’m passionate about **Cloud Computing**, **DevOps practices**, and building r
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-- **Smart Weather Forecast Automation**  
-  Designed and deployed a 3-tier application using Docker and set up a complete CI/CD pipeline on AWS with GitHub Actions.
-
----
 
 ### 📊 GitHub Stats
 
