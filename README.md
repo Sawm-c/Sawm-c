@@ -27,8 +27,8 @@ I’m passionate about **Cloud Computing**, **DevOps practices**, and building r
 
 ### 📊 GitHub Stats
 
-![Hiếu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sawm-c&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sawm-c&layout=compact&theme=radical)
+![Hiếu's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Sawm-c&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Sawm-c&layout=compact&theme=radical)
 
 ---
 
