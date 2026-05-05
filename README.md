@@ -20,8 +20,6 @@ I’m passionate about **Cloud Computing**, **DevOps practices**, and building r
 **Backend & Others:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 
 **Databases & Workflow:**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -42,8 +40,7 @@ When I’m not writing Terraform or debugging pipelines, you’ll likely find me
 
 - 📖 Reading philosophy books, especially on **existentialism**, and pondering life’s big questions.
 - 🎧 Listening to a wide range of music — Vietnamese Rap (Táo, Low G,...), Imagine Dragons, Charlie Puth, and chill/indie tracks.
-- 🌲 Exploring Vietnam’s nature and culture — from trekking in **Cúc Phương National Park** to visiting the Fine Arts Museum or wandering around Hanoi’s streets.
-- 🌊 Playing games like *Wuthering Waves* and translating lore & dialogues to improve my English while having fun.
+- 🌲 Exploring Vietnam’s nature and culture.
 - ☕ Enjoying quiet coffee time alone or having deep conversations with friends about technology, philosophy, and the future.
 
 I strongly believe that experiences outside of coding help me become a better engineer and a more well-rounded person.
