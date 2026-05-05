@@ -2,9 +2,7 @@
 
 ### ☁️ Aspiring DevOps Engineer | Cloud & Infrastructure Enthusiast
 
-I'm a third-year Information Technology student at the **University of Transport and Communications (UTC)** in Hanoi, Vietnam.
-
-I’m passionate about **Cloud Computing**, **DevOps practices**, and building reliable, scalable infrastructure. Currently, I’m focusing on automation, CI/CD pipelines, and infrastructure as code. My goal is to gain real-world experience as a **DevOps Intern** and contribute to meaningful projects that make an impact.
+I’m passionate about **Cloud Computing**, **DevOps practices**, and building reliable, scalable infrastructure. Currently, I’m focusing on automation, CI/CD pipelines, and infrastructure as code.
 
 ---
 
